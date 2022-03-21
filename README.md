@@ -7,3 +7,39 @@ You can use the Android Management API to support the work profile, fully manage
 
 ### How it works
 The Android Management API supports the full enterprise mobility management lifecycle, from initial customer enrollment to setting up and managing devices.
+
+
+![](https://developers.google.com/android/management/images/android-management-api.png)
+
+### Pros
+1. This Plantform providing by google 
+2. We can manage policy from cloud platform and change any time event after delivering devices 
+3. No worries about OS maintanace 
+4. Can reduce time & cost of customize android os for our app and can more focus on App development 
+
+### Cons
+1. Don't have a control on Android OS
+2. We require approval of google to use android management api, They design this api for Enterprise solution, everthing is depends up on google's approval [Permissible Usage](https://developers.google.com/android/management/permissible-usage)
+3. There's poilicy update request limitation, We may need to pay for request in future if we have more devices, [Quotas](https://developers.google.com/android/management/permissible-usage)
+
+
+## 2. [Android Custom ROM](https://source.android.com)
+
+### Pros
+1. We can customize everthing we want 
+2. We can allow out app to allow all android settings from app 
+
+### Cons
+1. We need to make OS comstomization which should compatible with device hardware
+2. Need lot more efforts on OS customization compare to app development
+3. We need to take care about OS updates
+4. We need to worry about software(OS)/hardware failure 
+
+## 3. [Scalefusion- Third party](https://scalefusion.com/features-overview)
+## 4. [Manageengine- Third party](https://www.manageengine.com/mobile-device-management/features.html)
+## 5. [Esper- Third party](https://www.esper.io)
+
+## 6. [Esper- Third party- Custom ROM](https://www.esper.io/esper-android-x86)
+## 7. [Lineage- Third party- Custom ROM](https://lineageos.org/)
+
+                                
