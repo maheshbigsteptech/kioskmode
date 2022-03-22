@@ -52,10 +52,19 @@ The Android Management API supports the full enterprise mobility management life
 1. Don't have a control on Android OS
 2. We need to take care of Android ROM as Manageengine does not provide any solutions of ROM
 3. It's costs per device
-## 5. [Esper- Third party](https://www.esper.io)
 
-## 6. [Esper- Third party- Custom ROM](https://www.esper.io/esper-android-x86)
-## 7. [Lineage- Third party- Custom ROM](https://lineageos.org/)
+## 5. [Esper- Third Party Management Api & Custom ROM](https://www.esper.io)
+### Pros
+1. We can manage policy from cloud platform and change any time event after delivering devices 
+2. No worries about OS maintanace 
+3. Can reduce time & cost of customize android os for our app and can more focus on App development 
+4. We can customize everthing we want 
+5. We can allow app to allow all android settings from app 
+
+### Cons
+1. Pricing is per device it may cost more 
+
+## 6. [Lineage- Third party- Custom ROM](https://lineageos.org/)
 ### Pros
 1. We can customize everthing we want 
 2. We can allow out app to allow all android settings from app 
