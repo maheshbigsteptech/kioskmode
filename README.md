@@ -36,7 +36,22 @@ The Android Management API supports the full enterprise mobility management life
 4. We need to worry about software(OS)/hardware failure 
 
 ## 3. [Scalefusion- Third party](https://scalefusion.com/features-overview)
+### Pros
+1. We can manage policy from cloud platform and change any time event after delivering devices 
+2. Manage devices using cloud platforms
+### Cons
+1. Don't have a control on Android OS
+2. We need to take care of Android ROM as Scalefusion does not provide any solutions of ROM
+3. It's costs per device
+
 ## 4. [Manageengine- Third party](https://www.manageengine.com/mobile-device-management/features.html)
+### Pros
+1. We can manage policy from cloud platform and change any time event after delivering devices 
+2. Manage devices using cloud platforms
+### Cons
+1. Don't have a control on Android OS
+2. We need to take care of Android ROM as Manageengine does not provide any solutions of ROM
+3. It's costs per device
 ## 5. [Esper- Third party](https://www.esper.io)
 
 ## 6. [Esper- Third party- Custom ROM](https://www.esper.io/esper-android-x86)
