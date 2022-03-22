@@ -56,5 +56,13 @@ The Android Management API supports the full enterprise mobility management life
 
 ## 6. [Esper- Third party- Custom ROM](https://www.esper.io/esper-android-x86)
 ## 7. [Lineage- Third party- Custom ROM](https://lineageos.org/)
+### Pros
+1. We can customize everthing we want 
+2. We can allow out app to allow all android settings from app 
 
+### Cons
+1. We need to make OS comstomization which should compatible with device hardware
+2. Need lot more efforts on OS customization compare to app development
+3. We need to take care about OS updates
+4. We need to worry about software(OS)/hardware failure 
                                 
